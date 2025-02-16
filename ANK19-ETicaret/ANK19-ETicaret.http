@@ -1,0 +1,6 @@
+@ANK19_ETicaret_HostAddress = http://localhost:5107
+
+GET {{ANK19_ETicaret_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

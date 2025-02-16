@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/ANK19-ETicaretapi/apis/ANK19-ETicaret",
+      "type": "apis.azure"
+    }
+  }
+}
